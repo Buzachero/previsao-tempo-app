@@ -5,7 +5,7 @@ Aplicação que disponibiliza dados de previsão de tempo para uma dada localida
 
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-* [Powermock](https://powermock.github.io/)
+* [Powermock](https://powermock.github.io/) / [JUnit](https://junit.org/junit4/)
 * [Log4J](https://logging.apache.org/log4j/2.x/)
 * [H2](https://www.h2database.com/html/main.html)
 
